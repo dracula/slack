@@ -2,7 +2,7 @@
 
 > A dark theme for [Slack](http://slack.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/slack.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
