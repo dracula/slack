@@ -12,9 +12,12 @@ All instructions can be found at [draculatheme.com/slack](https://draculatheme.c
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/slack/graphs/contributors).
 
-| [![Trevor Heins](https://avatars0.githubusercontent.com/u/1607028?v=3&s=70)](https://github.com/heinst) | [![Eduardo Quagliato](https://avatars3.githubusercontent.com/u/220744?v=3&s=70)](https://github.com/quagliato) |
-| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| [Trevor Heins](https://github.com/heinst)                                                               | [Eduardo Quagliato](https://github.com/quagliato)                                                              |
+
+
+
+| [![Trevor Heins](https://avatars0.githubusercontent.com/u/1607028?v=3&s=70)](https://github.com/heinst) | [![Eduardo Quagliato](https://avatars3.githubusercontent.com/u/220744?v=3&s=70)](https://github.com/quagliato) | [![Mathieu Lapierre](https://avatars.githubusercontent.com/u/1811016?v=4&s=70)](https://github.com/taka0o) |
+|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| [Trevor Heins](https://github.com/heinst)                                                               | [Eduardo Quagliato](https://github.com/quagliato)                                                              | [Mathieu Lapierre](https://github.com/taka0o)                                                              |
 
 ## Community
 

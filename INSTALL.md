@@ -2,10 +2,12 @@
 
 #### Install manually
 
-1.  Copy the values below
-2.  In Slack, paste the values in any Channel or Conversation - such as `Slackbot`
-3.  Click on the `"Switch sidebar theme"` button to install the theme
-
+1. Copy the values below:
 ```
 #282A36,#44475A,#44475A,#8BE9FD,#6272A4,#FFFFFF,#50FA7B,#FF5555
 ```
+2. In Slack,  go to `File > Preferences > Themes`.
+3. Select `Dark` in `Appearance` section.
+4. In `Colors` section, click on `Create a custom theme` if you never created a custom theme.
+5. Paste the colors you copied from the previous step in the textbox.
+6. Enjoy Dracula theme in Slack!
